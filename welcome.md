@@ -5,3 +5,8 @@ technologies
 - Spark
 - ML
   > hello
+
+| year | passout |
+| ----------- | ----------- |
+| SSC | 1991 |
+| HSc | 1994 |
