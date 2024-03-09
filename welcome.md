@@ -6,7 +6,7 @@ technologies
 - ML
   > hello
 
-| year | passout |
-| ----------- | ----------- |
-| SSC | 1991 |
-| HSc | 1994 |
+>| year | passout |
+>| ----------- | ----------- |
+>| SSC | 1991 |
+>| HSc | 1994 |
