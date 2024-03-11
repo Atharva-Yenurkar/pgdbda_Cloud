@@ -11,3 +11,5 @@ technologies
 >| SSC | 1991 |
 >| HSc | 1994 |
 mdbkjhgdsjhs
+kbhkdbkfjs
+ldkflsdkfrg
