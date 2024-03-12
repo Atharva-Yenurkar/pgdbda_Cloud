@@ -8,4 +8,6 @@ Cloud Computing notes
 > hello welcome to
 > IACSD
 > ### Life is like a box of chocolates. You never know what you're gonna get.
-> helooooooooooooooooo
+
+
+>  # Coding like poetry should be short and concise.
