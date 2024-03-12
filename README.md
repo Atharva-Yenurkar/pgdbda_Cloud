@@ -11,3 +11,5 @@ Cloud Computing notes
 
 
 >  # Coding like poetry should be short and concise.
+
+                                    - Chandan Patil& others 😊
